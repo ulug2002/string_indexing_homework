@@ -7,5 +7,5 @@ def main(s):
         str: answer
     """
     return s[1]
-s = "adwada"
+s = "74s2ww2"
 print(main(s))
