@@ -6,4 +6,6 @@ def main(s):
     Returns:
         str: answer
     """
-    return
+    return s[5]
+s = "qwert6"
+print(main(s))
