@@ -6,6 +6,6 @@ def main(s):
     Returns:
         str: answer
     """
-    return s [1::3]
-s = "tyuiodasdf"
+    return s [0:3]
+s = 'tyuiodhjkllrtyuiopkjh'
 print(main(s))
