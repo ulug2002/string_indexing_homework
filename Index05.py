@@ -6,4 +6,6 @@ def main(s):
     Returns:
         int: answer
     """
-    return
+    return s[::-1]
+s = "54321"
+print(main(s))
